@@ -1,4 +1,16 @@
-### Hi there 👋
+
+### Hi there 👋, меня зовут Татьяна и я познаю магию JavaScript
+#### Обожаю изучать новое
+Я frontend - разработчик из Санкт - Петербурга. Люблю React, читать, спорт и танцы))
+
+Skills:  REACT / JS / HTML / CSS
+
+- 🔭 I’m currently working on this page. 
+
+
+
+
+
 
 <!--
 **sealione1311/sealione1311** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
