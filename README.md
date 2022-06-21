@@ -2,9 +2,20 @@
 #### Обожаю изучать новое
 
 
-Я frontend - разработчик из Санкт - Петербурга Люблю React, читать, спорт и танцы))
+Я frontend - разработчик из Санкт - Петербурга.
 
-Skills:  REACT / JS / HTML / CSS
+Люблю React, читать, спорт и танцы))
+
+const my stack = { 
+
+ code: [React, Javascript(ES6), HTML5, CSS3],
+
+ tools: [Redux, Gulp, Webpack, Figma],
+
+ style: [SCSS. Less, CSS modules, Styled Components]
+ 
+ }
+
 
 ![codewars](https://www.codewars.com/users/sealione/badges/micro)
 - 🔭 I’m currently working on this page. 
