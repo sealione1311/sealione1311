@@ -18,6 +18,17 @@ const my stack = {
 
 
 ![codewars](https://www.codewars.com/users/sealione/badges/micro)
+
+Мои работы:
+
+[Что посмотреть](https://github.com/sealione1311/19581-what-to-watch-4)
+
+[Сервис для планирования путешествия](https://github.com/sealione1311/19581-big-trip-11)
+
+
+
+
+ 
 - 🔭 I’m currently working on this page. 
 
 
