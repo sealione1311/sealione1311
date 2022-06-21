@@ -1,11 +1,12 @@
 ### Hi there 👋, меня зовут Татьяна и я познаю магию JavaScript
 #### Обожаю изучать новое
-![Обожаю изучать новое](https://www.codewars.com/users/sealione/badges/micro)
+
 
 Я frontend - разработчик из Санкт - Петербурга Люблю React, читать, спорт и танцы))
 
 Skills:  REACT / JS / HTML / CSS
 
+![codewars](https://www.codewars.com/users/sealione/badges/micro)
 - 🔭 I’m currently working on this page. 
 
 
