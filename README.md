@@ -27,6 +27,8 @@ const my stack = {
 
 [Сервис для планирования путешествия](https://github.com/sealione1311/19581-big-trip-11)
 
+[Сайт производственной компании](https://github.com/sealione1311/petrofasad)
+
 
 
 
