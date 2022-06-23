@@ -21,11 +21,13 @@ const my stack = {
 
 Мои работы:
 
-[Что посмотреть](https://github.com/sealione1311/19581-what-to-watch-4)
+[Приложение видеосервис "Что посмотреть"](https://github.com/sealione1311/19581-what-to-watch-4)
+
+[Приложение для просмотра статистики футбольных матчей WIP](https://github.com/sealione1311/soccerstat)
 
 [Сервис для планирования путешествия](https://github.com/sealione1311/19581-big-trip-11)
 
-[Приложение для просмотра статистики футбольных матчей WIP](https://github.com/sealione1311/soccerstat)
+
 
 
 
