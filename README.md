@@ -31,6 +31,8 @@ const my stack = {
 
 [Сайт производственной компании](https://github.com/sealione1311/petrofasad)
 
+[Игра Aim Training](https://github.com/sealione1311/aim-game)
+
 
 
 
