@@ -26,6 +26,7 @@ const my stack = {
 [Приложение для просмотра статистики футбольных матчей WIP](https://github.com/sealione1311/soccerstat)
 
 [Сервис для планирования путешествия](https://github.com/sealione1311/19581-big-trip-11)
+[Сайт прекрасного места для путешествий](https://github.com/sealione1311/19581-sedona-16)
 
 [Сайт производственной компании](https://github.com/sealione1311/petrofasad)
 
