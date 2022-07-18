@@ -21,6 +21,8 @@ const my stack = {
 
 Мои работы:
 
+[Кошачий Пинтерест](https://github.com/sealione1311/frontend-challenge)
+
 [Приложение видеосервис "Что посмотреть"](https://github.com/sealione1311/19581-what-to-watch-4)
 
 [Приложение для просмотра статистики футбольных матчей WIP](https://github.com/sealione1311/soccerstat)
