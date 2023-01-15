@@ -21,7 +21,7 @@ const my stack = {
 
 Мои работы:
 
-[Кошачий Пинтерест](https://github.com/sealione1311/frontend-challenge)
+[Кошачий Пинтерест](https://sealione1311.github.io/CatsPinterest/)
 
 [Приложение видеосервис "Что посмотреть"](https://what-to-watch-omega.vercel.app/)
 
@@ -29,9 +29,6 @@ const my stack = {
 
 [Сайт прекрасного места для путешествий](https://github.com/sealione1311/19581-sedona-16)
 
-[Сайт производственной компании](https://github.com/sealione1311/petrofasad)
-
-[Игра Aim Training](https://github.com/sealione1311/aim-game)
 
 
 
