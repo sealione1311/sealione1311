@@ -21,8 +21,6 @@ const my stack = {
 
 Мои работы:
 
-[Кошачий Пинтерест](https://sealione1311.github.io/CatsPinterest/)
-
 [Приложение видеосервис "Что посмотреть"](https://what-to-watch-omega.vercel.app/)
 
 [Сервис для планирования путешествия](https://github.com/sealione1311/19581-big-trip-11)
